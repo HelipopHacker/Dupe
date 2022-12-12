@@ -1,0 +1,12 @@
+local notifLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/HelipopHacker/Dupe/main/message.txt"))()
+
+notifLib:CreateDefaultNotif({
+  TweenSpeed = 1,
+  Title = "Working!",
+  Text = "If this shows, means it works!",
+  Duration = 5
+})
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HelipopHacker/Dupe/main/fake.txt"))()
